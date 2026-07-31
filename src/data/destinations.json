@@ -1,0 +1,150 @@
+[
+  {
+    "id": "dest-1",
+    "name": "Kashmir",
+    "slug": "kashmir",
+    "tagline": "Paradise on Earth",
+    "category": "domestic",
+    "heroImage": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566837945700-30057527ade0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Nestled in the northernmost realm of India, Kashmir is famed for its snow-capped peaks, pristine Dal Lake shikara rides, serene valleys of Gulmarg and Pahalgam, and rich saffron heritage. A dream destination for luxury, honeymoon, and nature lovers.",
+    "highlights": [
+      "Shikara Ride & Houseboat Stay on Dal Lake",
+      "Gondola Cable Car Ride in Gulmarg",
+      "Betaab Valley & Aru Valley Exploration",
+      "Saffron Fields & Apple Orchards of Pampore"
+    ],
+    "bestTimeToVisit": "March to August (Spring/Summer) or Dec to Feb (Snowfall)",
+    "idealDuration": "5 - 7 Days",
+    "rating": 4.9,
+    "reviewsCount": 240
+  },
+  {
+    "id": "dest-2",
+    "name": "Kerala",
+    "slug": "kerala",
+    "tagline": "God's Own Country",
+    "category": "domestic",
+    "heroImage": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506461883276-594a12b11cf3?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "From mist-clad tea plantations in Munnar to serene backwater cruises in Alleppey and wildlife sanctuaries in Thekkady, Kerala offers an enchanting blend of tranquility, luxury ayurvedic wellness, and cultural riches.",
+    "highlights": [
+      "Private Luxury Houseboat Cruise in Alleppey",
+      "Munnar Tea Estate Walk & Tasting",
+      "Periyar Wildlife Sanctuary Safari in Thekkady",
+      "Authentic Ayurvedic Spa & Wellness Retreats"
+    ],
+    "bestTimeToVisit": "September to March",
+    "idealDuration": "5 - 8 Days",
+    "rating": 4.85,
+    "reviewsCount": 195
+  },
+  {
+    "id": "dest-3",
+    "name": "Bali, Indonesia",
+    "slug": "bali",
+    "tagline": "Island of the Gods",
+    "category": "international",
+    "heroImage": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1555400038-63f5ba517a47?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Bali is a tropical sanctuary famous for lush volcanic peaks, sacred water temples, iconic rice terraces in Ubud, turquoise cliffside beaches in Uluwatu, and world-class luxury villas with private infinity pools.",
+    "highlights": [
+      "Tegallalang Rice Terraces & Jungle Swing",
+      "Private Pool Villa Experience in Seminyak",
+      "Sunset Kecak Fire Dance at Uluwatu Temple",
+      "Speedboat Day Trip to Nusa Penida & Kelingking Beach"
+    ],
+    "bestTimeToVisit": "April to October",
+    "idealDuration": "6 - 9 Days",
+    "rating": 4.92,
+    "reviewsCount": 310
+  },
+  {
+    "id": "dest-4",
+    "name": "Dubai, UAE",
+    "slug": "dubai",
+    "tagline": "City of Gold & Future",
+    "category": "international",
+    "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1546412414-8035e1786b9b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Experience ultra-modern architecture, desert luxury, Michelin-star dining, futuristic attractions, world-class shopping, and dune bash safaris in the dazzling metropolis of Dubai.",
+    "highlights": [
+      "Burj Khalifa 124th & 125th Floor Observation Deck",
+      "Luxury Red Dune Desert Safari & BBQ Dinner",
+      "Museum of the Future & Dubai Frame Visit",
+      "Private Yacht Marina Cruise"
+    ],
+    "bestTimeToVisit": "November to April",
+    "idealDuration": "5 - 7 Days",
+    "rating": 4.88,
+    "reviewsCount": 275
+  },
+  {
+    "id": "dest-5",
+    "name": "Himachal & Manali",
+    "slug": "manali",
+    "tagline": "Valley of the Gods",
+    "category": "adventure",
+    "heroImage": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1597074866923-dc058865e946?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Immerse yourself in mountain breeze, pine forests, Solang Valley adventure sports, Atal Tunnel, and serene Himalayan hamlets like Kasol, Old Manali, and Sethan.",
+    "highlights": [
+      "Atal Tunnel & Sissu Waterfall Day Excursion",
+      "Paragliding & Snow Activities at Solang Valley",
+      "Old Manali Cafe Culture & Hadimba Temple",
+      "Trek to Jogini Waterfalls"
+    ],
+    "bestTimeToVisit": "October to June",
+    "idealDuration": "5 - 6 Days",
+    "rating": 4.78,
+    "reviewsCount": 180
+  },
+  {
+    "id": "dest-6",
+    "name": "Thailand",
+    "slug": "thailand",
+    "tagline": "The Land of Smiles",
+    "category": "international",
+    "heroImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506665531195-3566fe2b4dfa?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Golden temples in Bangkok, vibrant nightlife in Phuket, island hopping around Phi Phi Islands, and crystal-clear waters of Krabi make Thailand an irresistible getaway.",
+    "highlights": [
+      "Phi Phi Island Speedboat Tour & Maya Bay",
+      "Coral Island Watersports in Pattaya",
+      "Bangkok Grand Palace & Floating Market",
+      "Luxury Sunset Catamaran Cruise in Phuket"
+    ],
+    "bestTimeToVisit": "November to April",
+    "idealDuration": "6 - 8 Days",
+    "rating": 4.82,
+    "reviewsCount": 230
+  }
+]

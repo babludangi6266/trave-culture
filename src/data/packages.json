@@ -1,0 +1,424 @@
+[
+  {
+    "id": "pkg-1",
+    "title": "Magical Kashmir: Royal Houseboats & Snowy Gulmarg",
+    "slug": "magical-kashmir-royal-houseboats",
+    "destination": "Kashmir",
+    "destinationSlug": "kashmir",
+    "category": "honeymoon",
+    "categoryLabel": "Honeymoon & Luxury",
+    "duration": "6 Days / 5 Nights",
+    "price": 24999,
+    "originalPrice": 29999,
+    "discount": "16% OFF",
+    "rating": 4.9,
+    "reviewsCount": 142,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566837945700-30057527ade0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "overview": "Experience the enchanting beauty of Kashmir with luxury stays in Srinagar floating houseboats, Gondola rides in Gulmarg, and serene walks through Pahalgam valleys.",
+    "highlights": [
+      "Complimentary Shikara ride on Dal Lake with flower decoration",
+      "Luxury Houseboat stay with candle-light dinner",
+      "Gondola Phase 1 & Phase 2 tickets included",
+      "Private AC Sedan/SUV for all transfers"
+    ],
+    "inclusions": [
+      "5 Nights accommodation in 4-Star handpicked hotels & houseboats",
+      "Daily breakfast and dinner (MAP Plan)",
+      "Private airport transfers and sightseeing vehicle",
+      "1-Hour Dal Lake Shikara Ride",
+      "Driver allowances, toll, parking, and GST"
+    ],
+    "exclusions": [
+      "Airfare / Train tickets",
+      "Pahalgam local union cab for Aru/Betaab valley",
+      "Personal expenses, laundry, tipping",
+      "Any adventure sports activities"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Srinagar & Sunset Shikara Ride",
+        "description": "Arrive at Srinagar Airport where our private representative greets you. Transfer to your luxury Houseboat on Dal Lake. In the evening, enjoy a romantic 1-hour Shikara ride."
+      },
+      {
+        "day": 2,
+        "title": "Srinagar to Gulmarg Excursion",
+        "description": "Drive to Gulmarg, the Meadow of Flowers. Board the world's second-highest Gondola cable car ride up to Apharwat Peak for breathtaking snow vistas."
+      },
+      {
+        "day": 3,
+        "title": "Srinagar Mughal Gardens & Local Heritage Walk",
+        "description": "Visit Nishat Bagh, Shalimar Bagh, Chashme Shahi, and Pari Mahal. Explore Pampore saffron fields and local Kashmiri handicraft centers."
+      },
+      {
+        "day": 4,
+        "title": "Srinagar to Pahalgam (Valley of Shepherds)",
+        "description": "Drive to Pahalgam along the Lidder River. Visit Betaab Valley (named after the Bollywood movie) and Aru Valley surrounded by pine forests."
+      },
+      {
+        "day": 5,
+        "title": "Pahalgam Exploration & Return to Srinagar",
+        "description": "Morning pony ride to Baisaran Meadow (Mini Switzerland). Return to Srinagar in the afternoon for leisure shopping in Lal Chowk."
+      },
+      {
+        "day": 6,
+        "title": "Departure from Srinagar",
+        "description": "Enjoy a hearty Kashmiri breakfast before being transferred to Srinagar Airport for your return flight home."
+      }
+    ]
+  },
+  {
+    "id": "pkg-2",
+    "title": "Enchanting Kerala: Munnar Hills & Alleppey Backwaters",
+    "slug": "enchanting-kerala-munnar-alleppey",
+    "destination": "Kerala",
+    "destinationSlug": "kerala",
+    "category": "family",
+    "categoryLabel": "Family & Nature",
+    "duration": "6 Days / 5 Nights",
+    "price": 19999,
+    "originalPrice": 24000,
+    "discount": "17% OFF",
+    "rating": 4.85,
+    "reviewsCount": 118,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "overview": "Immerse your family in lush green tea gardens of Munnar, spice plantations of Thekkady, and an unforgettable overnight luxury houseboat cruise through Alleppey backwaters.",
+    "highlights": [
+      "Overnight stay in private deluxe Houseboat with all meals",
+      "Munnar Tea Museum & Mattupetty Dam visit",
+      "Kathakali cultural dance performance in Thekkady",
+      "Spice Garden Guided Walking Tour"
+    ],
+    "inclusions": [
+      "4 Nights Hotel stay + 1 Night Houseboat stay",
+      "Daily breakfast at hotels, all meals on Houseboat",
+      "Private AC cab for full trip",
+      "Spice plantation entry ticket"
+    ],
+    "exclusions": [
+      "Airfare or train journey",
+      "Boating fee at Periyar Wildlife Sanctuary",
+      "Camera fees & personal tips"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Cochin Arrival & Transfer to Munnar",
+        "description": "Pick up from Cochin Airport / Railway Station and drive to Munnar. En route, stop at Cheeyappara and Valara waterfalls."
+      },
+      {
+        "day": 2,
+        "title": "Munnar Sightseeing Tour",
+        "description": "Full day tour covering Eravikulam National Park (home to Nilgiri Tahr), Tea Museum, Echo Point, and Mattupetty Dam."
+      },
+      {
+        "day": 3,
+        "title": "Munnar to Thekkady (Wild Elephant Country)",
+        "description": "Scenic drive to Thekkady. Check in to resort. Afternoon visit to spice gardens and evening Kathakali & Kalaripayattu show."
+      },
+      {
+        "day": 4,
+        "title": "Thekkady to Alleppey Houseboat",
+        "description": "Drive to Alleppey backwater jetty. Board your private luxury houseboat by 12:00 PM. Enjoy traditional Kerala meals on board while gliding past palm-fringed canals."
+      },
+      {
+        "day": 5,
+        "title": "Alleppey to Kovalam / Cochin Sightseeing",
+        "description": "Disembark houseboat after breakfast. Drive to Cochin for heritage sightseeing at Fort Kochi, Chinese Fishing Nets, and Mattancherry Palace."
+      },
+      {
+        "day": 6,
+        "title": "Departure from Cochin",
+        "description": "Transfer to Cochin Airport / Railway Station with beautiful memories of God's Own Country."
+      }
+    ]
+  },
+  {
+    "id": "pkg-3",
+    "title": "Tropical Bali Escape: Ubud Rice Terraces & Seminyak Sunset",
+    "slug": "tropical-bali-escape-ubud-seminyak",
+    "destination": "Bali",
+    "destinationSlug": "bali",
+    "category": "international",
+    "categoryLabel": "International Escape",
+    "duration": "7 Days / 6 Nights",
+    "price": 38999,
+    "originalPrice": 45000,
+    "discount": "13% OFF",
+    "rating": 4.95,
+    "reviewsCount": 210,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "overview": "Discover Bali's twin souls: the cultural heart of Ubud with jungle swings and monkey forests, paired with Seminyak's luxury beach clubs and sunset cliff temples.",
+    "highlights": [
+      "2 Nights Private Pool Villa stay in Ubud",
+      "Nusa Penida West Island Speedboat Tour & Broken Beach",
+      "Uluwatu Sunset Temple & Kecak Dance performance",
+      "Balinese Floating Breakfast Experience"
+    ],
+    "inclusions": [
+      "6 Nights accommodation in 4/5-Star Resorts & Private Pool Villa",
+      "Daily international breakfast + 1 Floating Breakfast",
+      "Nusa Penida Day Tour with lunch & snorkeling",
+      "Private airport and inter-resort transfers",
+      "Indonesian SIM Card with local data"
+    ],
+    "exclusions": [
+      "International Airfare",
+      "Bali Tourist Levy / Visa on Arrival ($35 USD approx)",
+      "Personal shopping and alcoholic beverages"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Welcome to Bali & Transfer to Ubud Villa",
+        "description": "Warm Balinese welcome at Denpasar Airport (DPS). Private vehicle transfer to your tropical jungle villa in Ubud."
+      },
+      {
+        "day": 2,
+        "title": "Ubud Highlights, Jungle Swing & Rice Terraces",
+        "description": "Visit Tegallalang Rice Terraces, take the famous Bali Swing photo, explore Sacred Monkey Forest Sanctuary, and Tirta Empul Holy Water Temple."
+      },
+      {
+        "day": 3,
+        "title": "Mount Batur Sunrise Trek / Jeep Tour & Hot Springs",
+        "description": "Optional early morning 4WD Jeep sunrise tour of Mount Batur crater followed by relaxing dip in Toya Devasya Natural Hot Springs."
+      },
+      {
+        "day": 4,
+        "title": "Transfer to Seminyak & Tanah Lot Sunset Temple",
+        "description": "Check out from Ubud and drive to coastal Seminyak. Afternoon visit to sea temple Tanah Lot perched on an offshore rock formation."
+      },
+      {
+        "day": 5,
+        "title": "Nusa Penida Island Speedboat Day Trip",
+        "description": "Board speedboat to Nusa Penida. Visit Kelingking T-Rex Beach, Angel's Billabong, Broken Beach, and Crystal Bay."
+      },
+      {
+        "day": 6,
+        "title": "Uluwatu Cliffside Temple & Jimbaran Seafood Dinner",
+        "description": "Leisure morning. Afternoon visit to Uluwatu Temple perched 70 meters above sea level. Watch the sunset Kecak dance followed by beachside seafood dinner at Jimbaran."
+      },
+      {
+        "day": 7,
+        "title": "Souvenir Shopping & Departure",
+        "description": "Visit Krisna Souvenir Center for coffee and woodcarvings before transfer to DPS airport for your homebound flight."
+      }
+    ]
+  },
+  {
+    "id": "pkg-4",
+    "title": "Dubai Extravaganza: Desert Safari & Burj Khalifa",
+    "slug": "dubai-extravaganza-desert-safari-burj-khalifa",
+    "destination": "Dubai, UAE",
+    "destinationSlug": "dubai",
+    "category": "international",
+    "categoryLabel": "Luxury & Glamour",
+    "duration": "5 Days / 4 Nights",
+    "price": 42999,
+    "originalPrice": 49999,
+    "discount": "14% OFF",
+    "rating": 4.88,
+    "reviewsCount": 165,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1546412414-8035e1786b9b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "overview": "Experience the pinnacle of futuristic luxury with ticket entry to Burj Khalifa 124th floor, VIP Red Dune Desert Safari, Dubai Marina Dhow Cruise, and Museum of the Future.",
+    "highlights": [
+      "Burj Khalifa 124th & 125th Floor Observation Deck",
+      "Red Dune 4x4 Dune Bashing Safari with BBQ Dinner & Belly Dance",
+      "Luxury Marina Dhow Dinner Cruise",
+      "Museum of the Future entry ticket"
+    ],
+    "inclusions": [
+      "4 Nights stay in 4-Star Centrally Located City Hotel",
+      "Daily buffet breakfast",
+      "Desert Safari with BBQ dinner & live show",
+      "Dubai Marina Dhow Cruise dinner",
+      "Airport transfers on shared/private basis"
+    ],
+    "exclusions": [
+      "UAE Tourist Visa fee",
+      "Tourism Dirham fee paid directly to hotel",
+      "Air tickets"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Dubai & Marina Dhow Cruise Dinner",
+        "description": "Arrival at Dubai International Airport (DXB). Check in to hotel. Evening pickup for a luxury Dhow Cruise dinner along Dubai Marina."
+      },
+      {
+        "day": 2,
+        "title": "Half-Day Dubai City Tour & Burj Khalifa",
+        "description": "City tour covering Dubai Creek, Jumeirah Mosque, Burj Al Arab photo stop, and Atlantis The Palm. Evening visit to Dubai Mall and Burj Khalifa 124th floor."
+      },
+      {
+        "day": 3,
+        "title": "Museum of the Future & VIP Desert Safari",
+        "description": "Morning visit to the futuristic Museum of the Future. Afternoon pickup in 4x4 Land Cruisers for thrilling desert dune bashing, camel riding, and henna painting at desert camp."
+      },
+      {
+        "day": 4,
+        "title": "Abu Dhabi Day Tour (Grand Mosque & Ferrari World)",
+        "description": "Day trip to Abu Dhabi capital city. Visit the majestic Sheikh Zayed Grand Mosque and Louvre Abu Dhabi or Ferrari World photo stop."
+      },
+      {
+        "day": 5,
+        "title": "Leisure Shopping & Airport Transfer",
+        "description": "Explore Gold Souk & Spice Souk or Mall of the Emirates before transfer to airport."
+      }
+    ]
+  },
+  {
+    "id": "pkg-5",
+    "title": "Himachal Thrill: Manali, Solang Valley & Kasol Trek",
+    "slug": "himachal-thrill-manali-solang-kasol",
+    "destination": "Himachal & Manali",
+    "destinationSlug": "manali",
+    "category": "adventure",
+    "categoryLabel": "Adventure & Backpacking",
+    "duration": "5 Days / 4 Nights",
+    "price": 12999,
+    "originalPrice": 16000,
+    "discount": "18% OFF",
+    "rating": 4.79,
+    "reviewsCount": 94,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "overview": "Designed for thrill-seekers! Experience paragliding in Solang, snow games in Sissu via Atal Tunnel, river rafting in Kullu, and cafe hopping in Kasol.",
+    "highlights": [
+      "Atal Tunnel drive to Sissu waterfall (Lahaul Valley)",
+      "River Rafting experience in Beas River, Kullu",
+      "Solang Valley Adventure Sports Pass",
+      "Kasol Riverside Cafe tour & Chalal Village Walk"
+    ],
+    "inclusions": [
+      "4 Nights Stay in Swiss Tents & Mountain View Resort",
+      "Daily Breakfast & Dinner",
+      "Volvo Bus Tickets Delhi-Manali-Delhi",
+      "All internal transfers in cab"
+    ],
+    "exclusions": [
+      "Paragliding & zip-lining activity charges",
+      "Personal expenses"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Overnight Volvo Journey from Delhi to Manali",
+        "description": "Board luxury AC Volvo from Delhi (Majnu ka Tilla / Kashmiri Gate) in the evening."
+      },
+      {
+        "day": 2,
+        "title": "Manali Arrival & Local Sightseeing",
+        "description": "Reach Manali in the morning. Check in to resort. Afternoon visit to Hadimba Temple, Vashisht Hot Water Springs, and Mall Road."
+      },
+      {
+        "day": 3,
+        "title": "Solang Valley & Atal Tunnel Excursion",
+        "description": "Drive through the engineering marvel Atal Tunnel to Sissu in Lahaul Valley. Afternoon snow activities and paragliding in Solang."
+      },
+      {
+        "day": 4,
+        "title": "Kullu Rafting & Transfer to Kasol",
+        "description": "Drive to Kasol. En route, enjoy white water river rafting in Kullu. Check in to riverside camps in Kasol."
+      },
+      {
+        "day": 5,
+        "title": "Kasol Chalal Trek & Return Volvo to Delhi",
+        "description": "Trek to Chalal village along Parvati River. Explore Kasol's famous Israeli cafes before boarding evening Volvo back to Delhi."
+      }
+    ]
+  },
+  {
+    "id": "pkg-6",
+    "title": "Thailand Island Paradise: Phuket & Krabi Cruise",
+    "slug": "thailand-island-paradise-phuket-krabi",
+    "destination": "Thailand",
+    "destinationSlug": "thailand",
+    "category": "international",
+    "categoryLabel": "Beach & Nightlife",
+    "duration": "6 Days / 5 Nights",
+    "price": 32999,
+    "originalPrice": 38000,
+    "discount": "13% OFF",
+    "rating": 4.83,
+    "reviewsCount": 150,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "overview": "Soak in the turquoise wonders of Phi Phi Islands, Railay Beach in Krabi, Patong Beach nightlife, and big Buddha view points in Phuket.",
+    "highlights": [
+      "Phi Phi Island Speedboat tour with buffet lunch & snorkeling",
+      "Krabi 4-Island Tour by Longtail Boat",
+      "Big Buddha & Phuket Old Town cultural walk",
+      "Patong Beach Road Nightlife experience"
+    ],
+    "inclusions": [
+      "3 Nights in Phuket + 2 Nights in Krabi 4-Star Beach Resorts",
+      "Daily breakfast",
+      "Speedboat tour to Phi Phi & Krabi 4-Islands",
+      "Inter-city land and ferry transfers"
+    ],
+    "exclusions": [
+      "National Park Entrance fees (approx 400 THB/person)",
+      "International flights"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Phuket & Patong Beach Walk",
+        "description": "Land at Phuket International Airport (HKT). Private transfer to Patong hotel. Evening stroll along Patong Beach and Bangla Road."
+      },
+      {
+        "day": 2,
+        "title": "Phi Phi Islands Speedboat Tour",
+        "description": "Full day tour to Maya Bay (from the movie The Beach), Pileh Lagoon, Viking Cave, and Monkey Beach with snorkeling gear included."
+      },
+      {
+        "day": 3,
+        "title": "Phuket City Tour & Transfer to Krabi",
+        "description": "Visit Karon Viewpoint, Big Buddha, Wat Chalong, and Phuket Old Town Sino-Portuguese architecture. Ferry transfer to Krabi."
+      },
+      {
+        "day": 4,
+        "title": "Krabi 4-Island Speedboat Tour",
+        "description": "Explore Phra Nang Cave Beach, Tup Island, Chicken Island, and Poda Island with emerald waters."
+      },
+      {
+        "day": 5,
+        "title": "Leisure & Railay Beach Sunset Walk",
+        "description": "Free day to relax at resort pool or take a longtail boat to scenic Railay Beach for rock climbing and sunset viewing."
+      },
+      {
+        "day": 6,
+        "title": "Departure from Phuket / Krabi Airport",
+        "description": "Check out and transfer to airport for departure."
+      }
+    ]
+  }
+]

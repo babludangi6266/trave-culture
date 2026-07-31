@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Ananya & Rohan Sharma",
+    "location": "Mumbai, Maharashtra",
+    "trip": "Magical Kashmir Honeymoon",
+    "avatar": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=200&q=80",
+    "rating": 5,
+    "comment": "Travel Culture made our honeymoon in Kashmir an unforgettable dream! The Dal Lake houseboat stay was candle-lit, the cab driver was super punctual, and the Gondola tickets were pre-booked smoothly without standing in long queues. Absolutely 10/10 service!",
+    "destination_image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Vikram Sethi & Family",
+    "location": "New Delhi, India",
+    "trip": "Enchanting Kerala 6D/5N",
+    "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=200&q=80",
+    "rating": 5,
+    "comment": "The private houseboat experience in Alleppey backwaters was the highlight of our family trip. Clean rooms, mouth-watering South Indian meals cooked fresh on board, and very cooperative staff. Highly recommend to every family!",
+    "destination_image": "https://images.unsplash.com/photo-1559628129-67cf63b72248?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Siddharth & Meera Kapoor",
+    "location": "Bengaluru, Karnataka",
+    "trip": "Tropical Bali Villa Escape",
+    "avatar": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=200&q=80",
+    "rating": 5,
+    "comment": "We booked the Bali package via WhatsApp and within 10 minutes got a detailed custom itinerary. The floating breakfast in our Ubud private pool villa was magical. Smooth airport pickups and absolutely zero stress — will book again!",
+    "destination_image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Kavita Menon",
+    "location": "Chennai, Tamil Nadu",
+    "trip": "Dubai Extravaganza Tour",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=200&q=80",
+    "rating": 5,
+    "comment": "Outstanding organization from start to finish! Desert safari was thrilling and the Burj Khalifa sunset slot tickets were arranged perfectly in advance. Will definitely choose Travel Culture for our upcoming Europe trip.",
+    "destination_image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Arjun & Priya Nair",
+    "location": "Hyderabad, Telangana",
+    "trip": "Royal Rajasthan Heritage Tour",
+    "avatar": "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?auto=format&fit=crop&w=200&q=80",
+    "rating": 5,
+    "comment": "From Jaisalmer's golden dunes to Udaipur's lake palaces — every hotel was hand-picked to perfection. The camel safari at sunset was something straight out of a film. Travel Culture is the only agency I'd trust with my vacations.",
+    "destination_image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Rahul & Sunita Agarwal",
+    "location": "Pune, Maharashtra",
+    "trip": "Thailand Adventure & Temples",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=200&q=80",
+    "rating": 5,
+    "comment": "Best trip of our lives! The Phi Phi Islands speedboat tour, elephant sanctuary visit, and rooftop restaurant booking were all managed by the Travel Culture team without us lifting a finger. Truly remarkable service!",
+    "destination_image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=600&q=80"
+  }
+]

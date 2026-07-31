@@ -5,10 +5,10 @@
     "slug": "kashmir",
     "tagline": "Paradise on Earth",
     "category": "domestic",
-    "heroImage": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?auto=format&fit=crop&w=1600&q=80",
-    "thumbnail": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?auto=format&fit=crop&w=800&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=800&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
       "https://images.unsplash.com/photo-1566837945700-30057527ade0?auto=format&fit=crop&w=1200&q=80",
       "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&w=1200&q=80"
     ],
@@ -26,6 +26,106 @@
   },
   {
     "id": "dest-2",
+    "name": "Leh-Ladakh",
+    "slug": "leh-ladakh",
+    "tagline": "Land of High Passes",
+    "category": "adventure",
+    "heroImage": "https://images.unsplash.com/photo-1494548162494-384bba4ab999?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1494548162494-384bba4ab999?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1494548162494-384bba4ab999?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1568792923760-d70635a89fdc?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "The cold desert of Ladakh offers one of the most dramatic landscapes on the planet — cerulean lakes like Pangong and Tso Moriri, ancient Buddhist monasteries perched on cliffsides, rugged Himalayan passes over 5,000 metres, and a silence that touches the soul.",
+    "highlights": [
+      "Pangong Tso Lake & Sunrise Camping",
+      "Khardung La Pass (World's Highest Motorable Road)",
+      "Thiksey & Hemis Monastery visits",
+      "Nubra Valley Camel Safari on Double-Hump Bactrian Camels"
+    ],
+    "bestTimeToVisit": "June to September",
+    "idealDuration": "6 - 8 Days",
+    "rating": 4.93,
+    "reviewsCount": 198
+  },
+  {
+    "id": "dest-3",
+    "name": "Shimla & Manali",
+    "slug": "shimla-manali",
+    "tagline": "Queen of Hills & Valley of Gods",
+    "category": "domestic",
+    "heroImage": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1597074866923-dc058865e946?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1609766418204-5b4e5c88ea0f?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Shimla, the former summer capital of British India, charms with colonial-era architecture, toy train rides, and apple orchards. Manali captivates with snow-clad peaks, the Solang Valley adventure hub, and Rohtang Pass's breathtaking vistas.",
+    "highlights": [
+      "UNESCO Kalka-Shimla Toy Train Ride",
+      "Solang Valley Paragliding & Snow Activities",
+      "Rohtang Pass (Permit Required) Excursion",
+      "Hadimba Temple & Old Manali Cafe Walk"
+    ],
+    "bestTimeToVisit": "October to June",
+    "idealDuration": "5 - 7 Days",
+    "rating": 4.78,
+    "reviewsCount": 185
+  },
+  {
+    "id": "dest-4",
+    "name": "Goa",
+    "slug": "goa",
+    "tagline": "Sun, Sand & Spice",
+    "category": "beach",
+    "heroImage": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Goa's golden beaches, Portuguese heritage churches, vibrant nightlife, Konkani cuisine, and lush Western Ghats spice plantations make it India's favourite year-round coastal escape for families, couples, and solo travellers alike.",
+    "highlights": [
+      "North Goa: Calangute, Baga & Anjuna Beach",
+      "South Goa: Palolem & Butterfly Beach",
+      "Old Goa UNESCO Churches & Heritage Walk",
+      "Dudhsagar Waterfalls Jeep Safari"
+    ],
+    "bestTimeToVisit": "November to February",
+    "idealDuration": "4 - 6 Days",
+    "rating": 4.8,
+    "reviewsCount": 310
+  },
+  {
+    "id": "dest-5",
+    "name": "Rajasthan",
+    "slug": "rajasthan",
+    "tagline": "Land of Maharajas & Desert Sunsets",
+    "category": "heritage",
+    "heroImage": "https://images.unsplash.com/photo-1713682995521-22ec819b50ac?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1477587458883-47145ed5247c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1603262110263-fb0112e7cc33?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Rajasthan is a living canvas of royal forts, opulent palaces, camel caravans, and vivid festivals. From the Pink City of Jaipur to the Blue City of Jodhpur, White City of Udaipur and the Golden City of Jaisalmer — every corner tells a regal story.",
+    "highlights": [
+      "Amber Fort & City Palace, Jaipur",
+      "Mehrangarh Fort Jodhpur & Ghanta Ghar",
+      "Jaisalmer Desert Camel Safari & Overnight Camp",
+      "Udaipur Lake Palace & Pichola Sunset Boat Ride"
+    ],
+    "bestTimeToVisit": "October to March",
+    "idealDuration": "7 - 10 Days",
+    "rating": 4.88,
+    "reviewsCount": 275
+  },
+  {
+    "id": "dest-6",
     "name": "Kerala",
     "slug": "kerala",
     "tagline": "God's Own Country",
@@ -50,101 +150,153 @@
     "reviewsCount": 195
   },
   {
-    "id": "dest-3",
-    "name": "Bali, Indonesia",
-    "slug": "bali",
-    "tagline": "Island of the Gods",
-    "category": "international",
-    "heroImage": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1600&q=80",
-    "thumbnail": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+    "id": "dest-7",
+    "name": "Ooty & Coorg",
+    "slug": "ooty-coorg",
+    "tagline": "Scotland of India",
+    "category": "domestic",
+    "heroImage": "https://images.unsplash.com/photo-1589136777351-fdc9c9cab193?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1589136777351-fdc9c9cab193?auto=format&fit=crop&w=800&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1555400038-63f5ba517a47?auto=format&fit=crop&w=1200&q=80"
+      "https://images.unsplash.com/photo-1559570278-eb28ea94f0ee?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1606214174585-fe31582dc6ee?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1586348943529-beaae6c28db9?auto=format&fit=crop&w=1200&q=80"
     ],
-    "description": "Bali is a tropical sanctuary famous for lush volcanic peaks, sacred water temples, iconic rice terraces in Ubud, turquoise cliffside beaches in Uluwatu, and world-class luxury villas with private infinity pools.",
+    "description": "Ooty's rolling Nilgiri hills, scenic toy train, and rose garden paired with Coorg's aromatic coffee estates, Abbey Falls, and Tibetan monastery create a lush hill station escape ideal for families and couples.",
     "highlights": [
-      "Tegallalang Rice Terraces & Jungle Swing",
-      "Private Pool Villa Experience in Seminyak",
-      "Sunset Kecak Fire Dance at Uluwatu Temple",
-      "Speedboat Day Trip to Nusa Penida & Kelingking Beach"
+      "Nilgiri Mountain Railway UNESCO Toy Train Ride",
+      "Ooty Botanical Garden & Doddabetta Peak",
+      "Coorg Coffee & Spice Plantation Walk",
+      "Abbey Falls & Raja's Seat Sunset View"
     ],
-    "bestTimeToVisit": "April to October",
-    "idealDuration": "6 - 9 Days",
-    "rating": 4.92,
-    "reviewsCount": 310
+    "bestTimeToVisit": "October to June",
+    "idealDuration": "4 - 6 Days",
+    "rating": 4.75,
+    "reviewsCount": 142
   },
   {
-    "id": "dest-4",
-    "name": "Dubai, UAE",
-    "slug": "dubai",
-    "tagline": "City of Gold & Future",
-    "category": "international",
-    "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1600&q=80",
-    "thumbnail": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80",
+    "id": "dest-8",
+    "name": "Andaman Islands",
+    "slug": "andaman",
+    "tagline": "India's Tropical Island Jewel",
+    "category": "beach",
+    "heroImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1546412414-8035e1786b9b?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?auto=format&fit=crop&w=1200&q=80"
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&w=1200&q=80"
     ],
-    "description": "Experience ultra-modern architecture, desert luxury, Michelin-star dining, futuristic attractions, world-class shopping, and dune bash safaris in the dazzling metropolis of Dubai.",
+    "description": "The Andaman & Nicobar Islands boast crystal-clear turquoise waters, pristine white beaches, stunning coral reefs, and the historic Cellular Jail. Perfect for scuba diving, snorkelling, sea walking, and island hopping.",
     "highlights": [
-      "Burj Khalifa 124th & 125th Floor Observation Deck",
-      "Luxury Red Dune Desert Safari & BBQ Dinner",
-      "Museum of the Future & Dubai Frame Visit",
-      "Private Yacht Marina Cruise"
+      "Radhanagar Beach (Asia's Best Beach) — Havelock Island",
+      "Scuba Diving & Snorkelling at Elephant Beach",
+      "Cellular Jail National Memorial Light & Sound Show",
+      "Neil Island Glass-Bottom Boat Ride"
     ],
     "bestTimeToVisit": "November to April",
     "idealDuration": "5 - 7 Days",
-    "rating": 4.88,
-    "reviewsCount": 275
+    "rating": 4.87,
+    "reviewsCount": 163
   },
   {
-    "id": "dest-5",
-    "name": "Himachal & Manali",
-    "slug": "manali",
-    "tagline": "Valley of the Gods",
-    "category": "adventure",
-    "heroImage": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1600&q=80",
-    "thumbnail": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=800&q=80",
+    "id": "dest-9",
+    "name": "Mount Abu",
+    "slug": "mount-abu",
+    "tagline": "Rajasthan's Hill Station Gem",
+    "category": "domestic",
+    "heroImage": "https://images.unsplash.com/photo-1596548749616-f1958cb3c6a3?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1630825828081-e80577f6e2df?auto=format&fit=crop&w=800&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1597074866923-dc058865e946?auto=format&fit=crop&w=1200&q=80"
+      "https://images.unsplash.com/photo-1477587458883-47145ed5247c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1603262110263-fb0112e7cc33?auto=format&fit=crop&w=1200&q=80"
     ],
-    "description": "Immerse yourself in mountain breeze, pine forests, Solang Valley adventure sports, Atal Tunnel, and serene Himalayan hamlets like Kasol, Old Manali, and Sethan.",
+    "description": "Mount Abu is Rajasthan's only hill station, nestled in the Aravalli ranges. Famous for the stunning Dilwara Jain Temples with intricate marble carvings, Nakki Lake boat rides, Guru Shikhar peak, and the spiritual Brahma Kumaris World Headquarters.",
     "highlights": [
-      "Atal Tunnel & Sissu Waterfall Day Excursion",
-      "Paragliding & Snow Activities at Solang Valley",
-      "Old Manali Cafe Culture & Hadimba Temple",
-      "Trek to Jogini Waterfalls"
+      "Dilwara Jain Temples — Marble Architecture Marvel",
+      "Nakki Lake Sunrise Boat Ride",
+      "Guru Shikhar Peak (Highest Point in Aravalli)",
+      "Trevor's Tank Crocodile & Wildlife Sanctuary"
     ],
-    "bestTimeToVisit": "October to June",
-    "idealDuration": "5 - 6 Days",
-    "rating": 4.78,
-    "reviewsCount": 180
+    "bestTimeToVisit": "November to February or June to September",
+    "idealDuration": "3 - 4 Days",
+    "rating": 4.7,
+    "reviewsCount": 118
   },
   {
-    "id": "dest-6",
-    "name": "Thailand",
-    "slug": "thailand",
-    "tagline": "The Land of Smiles",
-    "category": "international",
-    "heroImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=1600&q=80",
-    "thumbnail": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=800&q=80",
+    "id": "dest-10",
+    "name": "Golden Triangle Punjab",
+    "slug": "punjab",
+    "tagline": "Land of Five Rivers & Warmth",
+    "category": "heritage",
+    "heroImage": "https://images.unsplash.com/photo-1582547218966-7adc3e7eed74?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1582547218966-7adc3e7eed74?auto=format&fit=crop&w=800&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1506665531195-3566fe2b4dfa?auto=format&fit=crop&w=1200&q=80"
+      "https://images.unsplash.com/photo-1582547218966-7adc3e7eed74?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1585136917228-f59a5e2fd6e6?auto=format&fit=crop&w=1200&q=80"
     ],
-    "description": "Golden temples in Bangkok, vibrant nightlife in Phuket, island hopping around Phi Phi Islands, and crystal-clear waters of Krabi make Thailand an irresistible getaway.",
+    "description": "Punjab's golden wheat fields, the sacred Golden Temple in Amritsar — the world's largest free kitchen (Langar), Wagah Border Retreat Ceremony, and rich Punjabi cuisine make it a deeply moving cultural and spiritual experience.",
     "highlights": [
-      "Phi Phi Island Speedboat Tour & Maya Bay",
-      "Coral Island Watersports in Pattaya",
-      "Bangkok Grand Palace & Floating Market",
-      "Luxury Sunset Catamaran Cruise in Phuket"
+      "Sri Harmandir Sahib (Golden Temple) & Langar",
+      "Wagah–Attari Border Beating Retreat Ceremony",
+      "Jallianwala Bagh National Memorial Visit",
+      "Authentic Punjabi Cuisine & Dhaba Food Trail"
     ],
-    "bestTimeToVisit": "November to April",
-    "idealDuration": "6 - 8 Days",
+    "bestTimeToVisit": "October to March",
+    "idealDuration": "3 - 5 Days",
     "rating": 4.82,
-    "reviewsCount": 230
+    "reviewsCount": 155
+  },
+  {
+    "id": "dest-11",
+    "name": "Varanasi & Ayodhya",
+    "slug": "varanasi",
+    "tagline": "City of Light & Eternal Spirit",
+    "category": "heritage",
+    "heroImage": "https://images.unsplash.com/photo-1599831069477-b2acdc0bcb91?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1726501604891-19fb7f7cd37b?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1561359313-0639aad49ca6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1726501604891-19fb7f7cd37b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1710429068963-1f6c853134a4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Varanasi, one of the world's oldest living cities, sits on the sacred Ganges. Evening Ganga Aarti at Dashashwamedh Ghat, dawn boat rides through ancient ghats, Sarnath Buddhist stupa, and Kashi Vishwanath Corridor make it a profoundly spiritual journey.",
+    "highlights": [
+      "Evening Ganga Aarti at Dashashwamedh Ghat",
+      "Sunrise Boat Ride Through 84 Ghats",
+      "Kashi Vishwanath Temple & Corridor Tour",
+      "Sarnath Buddhist Stupa & Museum"
+    ],
+    "bestTimeToVisit": "October to March",
+    "idealDuration": "3 - 4 Days",
+    "rating": 4.76,
+    "reviewsCount": 134
+  },
+  {
+    "id": "dest-12",
+    "name": "Spiti Valley",
+    "slug": "spiti-valley",
+    "tagline": "Little Tibet of India",
+    "category": "adventure",
+    "heroImage": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1494548162494-384bba4ab999?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1568792923760-d70635a89fdc?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Spiti Valley is a cold desert mountain valley hidden between India and Tibet. With an average altitude of 4,000 m, it offers stark raw beauty — ancient monasteries like Key & Tabo, the village of Kibber (one of the world's highest motorable villages), and the Chandratal Lake.",
+    "highlights": [
+      "Key Monastery (Ki Gompa) at 4,166 m altitude",
+      "Chandratal — Moon Lake at 4,250 m",
+      "Hikkim & Komic — World's Highest Post Office & Village",
+      "Chicham Bridge — Asia's Highest Gorge Bridge"
+    ],
+    "bestTimeToVisit": "June to September",
+    "idealDuration": "7 - 9 Days",
+    "rating": 4.91,
+    "reviewsCount": 98
   }
 ]
